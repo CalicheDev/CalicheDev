@@ -30,8 +30,8 @@ _I love developing projects to increase my technical skills, continuously improv
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> -->
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="full-stack-carlos-bejarano" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/full-stack-carlos-bejarano?trk=profile-badge">Carlos Alberto Bejarano Barbosa</a></div>
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="full-stack-carlos-bejarano" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/full-stack-carlos-bejarano?trk=profile-badge">Carlos Alberto Bejarano Barbosa</a></div> -->
               
 
 <!---
