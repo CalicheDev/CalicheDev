@@ -7,9 +7,9 @@ Full-Stack Developer. I have created some projects using PHP, JavaScript, and al
 ## 🚀My projects 
 
 _I love developing projects to increase my technical skills, continuously improve my code and keep learning about new technologies. These are some of my best projects._
--Orfeo - Software de Gestión Documental
--Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL
--Software ERP con Laravel, JavaScript y MySQL
+-[Orfeo - Software de Gestión Documental]
+-[Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL]
+-[Software ERP con Laravel, JavaScript y MySQL]
 
 ⚙ My stack technologies
 |Programming languages|Frontend|Backend|
