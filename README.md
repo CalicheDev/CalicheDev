@@ -4,6 +4,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+🚀 I am part of the best community ever: [**Open-Bootcamp**](https://open-bootcamp.com/).
+
+## 🚀My projects 
+
+_I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects._
+-
+-
+-
+
 ⚙ My stack technologies
 |Programming languages|Frontend|Backend|
 |---|---|---|
