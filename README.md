@@ -1,6 +1,7 @@
 ![Fondo_linkedin](https://user-images.githubusercontent.com/56748002/189555774-37f47e99-ec27-4b28-b18f-6ebdedc39e75.jpg)
 
-Full-Stack Developer. I've developed some projects using PHP, JavaScript, and also implemented technologies such as Laravel, MySQL and SQLServer. I am also proficient using SQL, and Windows. My goal is grow as a developer and DevOps, reach a high seniority level and take a role in software architecture to create great applications. Team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
+Full-Stack Developer. I've developed several projects using PHP, JavaScript, as well as technologies like Laravel, MySQL and SQLServer. I also have skills in using Transact-SQL and Windows. My goal is to progress as a Full-Stack developer, reach a high level of expertise, and play a significant role in software architecture to create exceptional applications. Teamwork, effective communication, problem solving and attention to detail are key skills that allow me to excel at my job.
+
 
 🚀 I am part of the best community ever: [**OpenBootcamp**](https://open-bootcamp.com/).
 
@@ -8,10 +9,11 @@ Full-Stack Developer. I've developed some projects using PHP, JavaScript, and al
 
 _I love developing projects to increase my technical skills, continuously improve my code and keep learning about new technologies. These are some of my best projects._
 
-- [Orfeo - Software de Gestión Documental]
+- [Agenda - Software de Gestión de Citas Médicas con ReactJs, NodeJs y MySQL]
 - [Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL]
 - [Software ERP con Laravel, JavaScript y MySQL]
 - [Portafolio Personal con PHP, Ajax y MySQL]
+- [Orfeo - Software de Gestión Documental - Ptoyecto de Grado]
 
 ## ⚙ My stack technologies
 |Programming languages|Frontend|Backend|
