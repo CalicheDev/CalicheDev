@@ -9,6 +9,7 @@ Full-Stack Developer. I've developed several projects using PHP, JavaScript, as 
 
 _I love developing projects to increase my technical skills, continuously improve my code and keep learning about new technologies. These are some of my best projects._
 
+- [CRM - Aplicacion Web para la Gestión de ordenes médicas con ReactJs, Django y Sqlite]
 - [Agenda - Software de Gestión de Citas Médicas con ReactJs, NodeJs y MySQL]
 - [Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL]
 - [Software ERP con Laravel, JavaScript y MySQL]
