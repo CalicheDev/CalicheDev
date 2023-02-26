@@ -31,7 +31,7 @@ _I love developing projects to increase my technical skills, continuously improv
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicheDev&show_icons=true&theme=city_lights)](https://github.com/CalicheDev/github-readme-stats)|![Caliche's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalicheDev&show_icons=true&theme=city_lights)|
 |---|---|
 
-
+## 🌐My social networks
 <a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
