@@ -9,12 +9,13 @@ Full-Stack Developer. I've developed several projects using PHP, JavaScript, as 
 
 _I love developing projects to increase my technical skills, continuously improve my code and keep learning about new technologies. These are some of my best projects._
 
-- [CRM - Aplicacion Web para la Gestión de ordenes médicas con ReactJs, Django y Sqlite]
-- [Agenda - Software de Gestión de Citas Médicas con ReactJs, NodeJs y MySQL]
-- [Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL]
+- [Sistema Control de Gastos y Presupuesto con Laravel, JavaScript y MySQL]
+- [CRM - Aplicacion Web para la Gestión de ordenes médicas con ReactJs, Django y Sqlite](https://github.com/CalicheDev/Proyectos_Django_React)
+- [Agenda - Software de Gestión de Citas Médicas con ReactJs, NodeJs y MySQL](https://github.com/CalicheDev/material-kit-react)
 - [Software ERP con Laravel, JavaScript y MySQL]
-- [Portafolio Personal con PHP, Ajax y MySQL]
-- [Orfeo - Software de Gestión Documental - Ptoyecto de Grado]
+- [Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL](https://github.com/CalicheDev/ticketly_Demo/tree/master)
+- [Portafolio Personal con PHP, Ajax y MySQL](https://github.com/CalicheDev/portafolio_php)
+- [Orfeo - Software de Gestión Documental - Ptoyecto de Grado](https://github.com/CalicheDev/Orfeo_5.8-924)
 
 ## ⚙ My stack technologies
 |Programming languages|Frontend|Backend|
