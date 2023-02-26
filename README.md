@@ -32,7 +32,9 @@ _I love developing projects to increase my technical skills, continuously improv
 |---|---|
 
 
-<a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicheDev&layout=compact)](https://github.com/CalicheDev/github-readme-stats) -->
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
