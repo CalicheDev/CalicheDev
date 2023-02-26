@@ -18,9 +18,28 @@ _I love developing projects to increase my technical skills, continuously improv
 - [Orfeo - Software de Gestión Documental - Ptoyecto de Grado](https://github.com/CalicheDev/Orfeo_5.8-924)
 
 ## ⚙ My stack technologies
-|Programming languages|Frontend|Backend|
+|Programming languages |   |
+|---                   |---|
+|PHP                   |<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=grape"/>|
+|JavaScript            |<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>|
+|Python                |<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>|
+
+|Frontend    |   |
+|---         |---|
+|React       |<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>|
+|HTML5       |<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>|
+|CSS3        |<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>|
+|Next.js     |![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)|
+
+|Backend     |   |
+|---         |---|
+|Django      |<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>|
+|Node.js     |<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>|
+|Laravel     |<img src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=red"/>|
+
+<!-- |Programming languages|Frontend|Backend|
 |---|---|---|
-| <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=grape"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)| <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=red" /> |
+| <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=grape"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>| <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)| <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-323330?style=for-the-badge&logo=laravel&logoColor=red" /> | -->
 
 |RDBMS|Dev Tools|Cloud Tools|
 |---|---|---|
