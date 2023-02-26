@@ -32,8 +32,8 @@ _I love developing projects to increase my technical skills, continuously improv
 |---|---|
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="full-stack-carlos-bejarano" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/full-stack-carlos-bejarano?trk=profile-badge">Carlos Alberto Bejarano Barbosa</a></div>
+<a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicheDev&layout=compact)](https://github.com/CalicheDev/github-readme-stats) -->
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
 <!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
