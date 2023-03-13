@@ -1,6 +1,8 @@
 ![Fondo_linkedin](https://user-images.githubusercontent.com/56748002/189555774-37f47e99-ec27-4b28-b18f-6ebdedc39e75.jpg)
 
-Full-Stack Developer. I've developed several projects using PHP, JavaScript, Python, as well as technologies like Laravel, Django, React.js, MySQL, Sqlite and SQLServer. I also have skills in using Transact-SQL and Windows. My goal is to progress as a Full-Stack developer, reach a high level of expertise, and play a significant role in software architecture to create exceptional applications. Teamwork, effective communication, problem solving and attention to detail are key skills that allow me to excel at my job.
+Full-Stack Developer. As a Full-Stack Developer, I have extensive experience developing projects using various programming languages such as PHP, JavaScript, and Python, along with frameworks like Laravel, Django, and React.js. I also have expertise in database technologies like MySQL, Sqlite, and SQLServer, and have a solid understanding of Transact-SQL and Windows.
+
+My ultimate objective is to continually progress as a Full-Stack developer, hone my skills, and play an integral role in software architecture to create exceptional applications. In addition to my technical proficiency, I possess strong teamwork, effective communication, problem-solving, and attention to detail skills, which enable me to excel in my job.
 
 
 🚀 I am part of the best community ever: [**OpenBootcamp**](https://open-bootcamp.com/).
