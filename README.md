@@ -4,7 +4,10 @@ Full-Stack Developer. As a Full-Stack Developer, I have extensive experience dev
 
 My ultimate objective is to continually progress as a Full-Stack developer, hone my skills, and play an integral role in software architecture to create exceptional applications. In addition to my technical proficiency, I possess strong teamwork, effective communication, problem-solving, and attention to detail skills, which enable me to excel in my job.
 
-
+## 🌐My social networks
+<a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <!--- 🚀 I am part of the best community ever: [**OpenBootcamp**](https://open-bootcamp.com/). -->
 
 ## 🚀My projects 
@@ -33,10 +36,7 @@ _I love developing projects to increase my technical skills, continuously improv
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicheDev&show_icons=true&theme=city_lights)](https://github.com/CalicheDev/github-readme-stats)|![Caliche's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalicheDev&show_icons=true&theme=city_lights)|
 |---|---|
 
-## 🌐My social networks
-<a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicheDev&layout=compact)](https://github.com/CalicheDev/github-readme-stats) -->
 <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
