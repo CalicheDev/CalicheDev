@@ -5,7 +5,7 @@ Full-Stack Developer. As a Full-Stack Developer, I have extensive experience dev
 My ultimate objective is to continually progress as a Full-Stack developer, hone my skills, and play an integral role in software architecture to create exceptional applications. In addition to my technical proficiency, I possess strong teamwork, effective communication, problem-solving, and attention to detail skills, which enable me to excel in my job.
 
 
-🚀 I am part of the best community ever: [**OpenBootcamp**](https://open-bootcamp.com/).
+<!--- 🚀 I am part of the best community ever: [**OpenBootcamp**](https://open-bootcamp.com/). -->
 
 ## 🚀My projects 
 
