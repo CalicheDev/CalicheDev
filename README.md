@@ -11,11 +11,11 @@ My ultimate objective is to continually progress as a Full-Stack developer, hone
 
 _I love developing projects to increase my technical skills, continuously improve my code and keep learning about new technologies. These are some of my best projects._
 
-- [Sistema Control de Gastos y Presupuesto con Laravel, JavaScript y MySQL]
+- [Sistema Control de Gastos y Presupuesto con Laravel, JavaScript y MySQL](https://drive.google.com/file/d/1O41BjS-XHkbF3xb2TygmfKckuGp2aA6F/view?usp=sharing)
 - [CRM - Aplicacion Web para la Gestión de ordenes médicas con ReactJs, Django y Sqlite](https://github.com/CalicheDev/Proyectos_Django_React)
 - [Agenda - Software de Gestión de Citas Médicas con ReactJs, NodeJs y MySQL](https://github.com/CalicheDev/material-kit-react)
 - [Software ERP con Laravel, JavaScript y MySQL]
-- [Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL](https://github.com/CalicheDev/ticketly_Demo/tree/master)
+- [Sistema HelpDesk con PHP, JavaScript, Ajax y MySQL](https://drive.google.com/file/d/1qvGPAYn3wRkQ8_rmTQxXZF5XvPRrtExi/view?usp=share_link)
 - [Portafolio Personal con PHP, Ajax y MySQL](https://github.com/CalicheDev/portafolio_php)
 - [Orfeo - Software de Gestión Documental - Ptoyecto de Grado](https://github.com/CalicheDev/Orfeo_5.8-924)
 
