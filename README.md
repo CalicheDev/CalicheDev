@@ -8,6 +8,8 @@ My ultimate objective is to continually progress as a Full-Stack developer, hone
 <a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+<a href="https://stackoverflow.com/users/24019816/calichedev" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"> </a>
 <!--- 🚀 I am part of the best community ever: [**OpenBootcamp**](https://open-bootcamp.com/). -->
 
 ## 🚀My projects 
