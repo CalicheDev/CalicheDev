@@ -16,7 +16,7 @@ My ultimate objective is to continually progress as a Full-Stack developer, hone
 
 _I love developing projects to increase my technical skills, continuously improve my code and keep learning about new technologies. These are some of my best projects._
 
-- [Sistema seguimiento Dispnesacion Medicamentos - Laravel y consumo de API](https://drive.google.com/file/d/1KalGiH18XiTGW0bQKTsxZt4BoBQMkEtP/view?usp=share_link)
+- [Sistema seguimiento Dispensación Medicamentos - Laravel y consumo de API](https://drive.google.com/file/d/1KalGiH18XiTGW0bQKTsxZt4BoBQMkEtP/view?usp=share_link)
 - [Sistema Gestion de Medicamentos Pendientes - Laravel y consumo de API](https://mega.nz/file/Ipg11IwI#TaQxCKglQT5C7INXB70_avqx_LiEWHuVapa7a_Hs-bU)
 - [Sistema Control de Gastos y Presupuesto con Laravel, JavaScript y MySQL](https://mega.nz/file/Zhwk3JiA#soiGE9TrYfvZJ16RCop7SpqudUmA8bUyFYhRCCq8mAY)
 - [CRM - Aplicacion Web para la Gestión de ordenes médicas con ReactJs, Django y Sqlite](https://github.com/CalicheDev/Proyectos_Django_React)
