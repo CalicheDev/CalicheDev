@@ -1,8 +1,10 @@
 ![Fondo_linkedin](https://user-images.githubusercontent.com/56748002/189555774-37f47e99-ec27-4b28-b18f-6ebdedc39e75.jpg)
 
-Full-Stack Developer. As a Full-Stack Developer, I have extensive experience developing projects using various programming languages such as PHP, JavaScript, and Python, along with frameworks like Laravel, Django, and React.js. I also have expertise in database technologies like MySQL, Sqlite, and SQLServer, and have a solid understanding of Transact-SQL and Windows.
+I am a Full-Stack Developer, which means I have a wide range of skills and experience in developing projects using different programming languages like PHP, JavaScript, and Python. I also work with frameworks like Laravel, Django, and React.js, which help me build applications more efficiently.
 
-My ultimate objective is to continually progress as a Full-Stack developer, hone my skills, and play an integral role in software architecture to create exceptional applications. In addition to my technical proficiency, I possess strong teamwork, effective communication, problem-solving, and attention to detail skills, which enable me to excel in my job.
+When it comes to databases, I have expertise in technologies like MySQL, Sqlite, and SQLServer. I also have a solid understanding of Transact-SQL and Windows, which allows me to effectively manage and manipulate data.
+
+My main goal as a Full-Stack Developer is to constantly improve my skills and knowledge in order to create exceptional applications. I strive to be a valuable member of a software development team, contributing to the overall architecture and design of the software.
 
 ## 🌐My social networks
 <a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
