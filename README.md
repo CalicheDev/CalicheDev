@@ -2,7 +2,7 @@
 ![Fondo_linkedin](https://user-images.githubusercontent.com/56748002/189555774-37f47e99-ec27-4b28-b18f-6ebdedc39e75.jpg)
 
 <h1 align="center">Hola 👋, soy Carlos Bejarano</h1>
-<h3 align="center">Full-Stack Developer | Laravel • Django • React • SQL | 🇨🇴</h3>
+<h3 align="center">Full-Stack Developer | Laravel • Django • React • SQL </h3>
 
 <p align="center">
   <a href="https://github.com/CalicheDev">
