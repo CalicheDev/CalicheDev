@@ -1,94 +1,74 @@
 
 ![Fondo_linkedin](https://user-images.githubusercontent.com/56748002/189555774-37f47e99-ec27-4b28-b18f-6ebdedc39e75.jpg)
 
-## 👨‍💻 About Me
+<h1 align="center">Hola 👋, soy Carlos Bejarano</h1>
+<h3 align="center">Full-Stack Developer | Laravel • Django • React • SQL | 🇨🇴</h3>
 
-Hello! I'm Carlos Bejarano, but you can call me *calichedev*. I'm passionate about creating innovative, high-quality software solutions that make an impact. With a strong background as a Full-Stack Developer, I specialize in using modern technologies and frameworks like **PHP**, **JavaScript**, and **Python**. My expertise extends to **Laravel**, **Django**, and **React.js**, allowing me to develop robust, scalable applications.
+<p align="center">
+  <a href="https://github.com/CalicheDev">
+    <img src="https://komarev.com/ghpvc/?username=CalicheDev&label=Profile%20views&color=0e75b6&style=flat" alt="calichedev" />
+  </a>
+  <a href="https://github.com/CalicheDev?tab=repositories">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/CalicheDev?label=Follow&style=social">
+  </a>
+</p>
 
-When it comes to databases, I'm well-versed in **MySQL**, **SQLite**, and **SQL Server**, along with a deep understanding of **Transact-SQL**. My skills enable me to effectively manage and optimize data for complex applications.
+---
 
-I’m not just about the tech; I’m about creating real-world solutions. My goal is to contribute to projects that matter, whether that’s building intuitive user interfaces or ensuring backend systems run smoothly. I'm constantly learning and pushing the boundaries of what’s possible in web development and software engineering.
+## 👨‍💻 Sobre Mí
 
-## 🌐 Connect with Me
+Desarrollador Full-Stack apasionado por crear soluciones reales con impacto en el mundo. Me enfoco en:
 
-Feel free to reach out if you want to collaborate, discuss ideas, or just say hi!
+- 🔧 Backend: **Laravel**, **Django**, **Node.js**
+- 🎨 Frontend: **React.js**, **JavaScript**, **Next.js**
+- 🧠 Datos: **MySQL**, **SQL Server**, **PostgreSQL**, **T-SQL**
+- ☁️ Cloud: **AWS**
+- 🔁 Integraciones: APIs REST, JSON, OAuth2
 
-<a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://stackoverflow.com/users/24019816/calichedev" target="_blank"> 
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"> 
-</a>
+Además, disfruto automatizar procesos, optimizar consultas y crear interfaces intuitivas para el usuario final.
 
-## 🚀 Projects
+---
 
-I thrive on developing projects that challenge my technical abilities and expand my knowledge of new technologies. Here are some of my most notable projects:
+## 🌐 Conecta Conmigo
 
-- **[Medication Dispensation Tracking System (Laravel, API)](https://mega.nz/file/1xIxTCia#w6XkoYaI9c2JxEnY-ovugbWcITC_EvwtZm0TrCpluSI)**  
-  A comprehensive system for managing medication dispensation in healthcare facilities.
+<p align="left">
+  <a href="https://www.linkedin.com/in/full-stack-carlos-bejarano/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://stackoverflow.com/users/24019816/calichedev" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
+  </a>
+</p>
 
-- **[Pending Medications Management System (Laravel, API)](https://mega.nz/file/Ipg11IwI#TaQxCKglQT5C7INXB70_avqx_LiEWHuVapa7a_Hs-bU)**  
-  Tracks and manages pending medications to streamline pharmacy operations.
+---
 
-- **[Expense and Budget Control System (Laravel, JavaScript, MySQL)](https://mega.nz/file/Zhwk3JiA#soiGE9TrYfvZJ16RCop7SpqudUmA8bUyFYhRCCq8mAY)**  
-  A robust system for managing personal or organizational finances.
+## 🚀 Proyectos Destacados
 
-- **[CRM for Medical Orders Management (React.js, Django, SQLite)](https://github.com/CalicheDev/Proyectos_Django_React)**  
-  A customer relationship management tool tailored for healthcare providers.
+| Proyecto | Descripción |
+|---------|-------------|
+| ✅ [Sistema de Dispensación de Medicamentos](https://mega.nz/file/1xIxTCia#w6XkoYaI9c2JxEnY-ovugbWcITC_EvwtZm0TrCpluSI) | Sistema para clínicas y farmacias, hecho en Laravel y APIs. |
+| ✅ [Gestor de Medicamentos Pendientes](https://mega.nz/file/Ipg11IwI#TaQxCKglQT5C7INXB70_avqx_LiEWHuVapa7a_Hs-bU) | Mejora la gestión de inventario farmacéutico. |
+| ✅ [Control de Gastos y Presupuestos](https://mega.nz/file/Zhwk3JiA#soiGE9TrYfvZJ16RCop7SpqudUmA8bUyFYhRCCq8mAY) | Panel para controlar gastos en Laravel + JS. |
+| ✅ [CRM Médico (Django + React)](https://github.com/CalicheDev/Proyectos_Django_React) | CRM especializado para gestión médica. |
+| ✅ [ERP Clínico](https://github.com/CalicheDev/ERP_Laravel) | ERP integral para sector salud. |
 
-- **[Medical Appointment Management Software (React.js, Node.js, MySQL)](https://github.com/CalicheDev/material-kit-react)**  
-  A complete solution for scheduling and managing medical appointments.
+👉 [Ver más en GitHub →](https://github.com/CalicheDev?tab=repositories)
 
-- **[ERP Software (Laravel, JavaScript, MySQL)](https://github.com/CalicheDev/ERP_Laravel)**  
-  A powerful enterprise resource planning tool for businesses.
+---
 
-- **[HelpDesk System (PHP, JavaScript, Ajax, MySQL)](https://mega.nz/file/Q0xUiIqD#2FMTR8f7MrQwbB4yBBUIhlCeupx4OrFg5mVrbMCm76c)**  
-  A support ticketing system designed to streamline IT and customer service operations.
+## 🧠 Tech Stack
 
-- **[Personal Portfolio (PHP, Ajax, MySQL)](https://github.com/CalicheDev/portafolio_php)**  
-  A showcase of my work, built with PHP and Ajax.
+![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-E74430?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?)
 
-- **[Orfeo - Document Management Software (Graduation Project)](https://github.com/CalicheDev/Orfeo_5.8-924)**  
-  An open-source document management system tailored for public institutions.
-
-## ⚙️ Tech Stack
-
-### Programming Languages
-- **PHP**
-- **JavaScript**
-- **Python**
-- **TypeScript**
-
-### Frontend Development
-- **React**
-- **HTML5**
-- **CSS3**
-- **Next.js**
-
-### Backend Development
-- **Django**
-- **Node.js**
-- **Laravel**
-- **Express.js**
-
-### Databases
-- **SQL Server**
-- **SQLite**
-- **MySQL**
-- **PostgreSQL**
-
-### Dev Tools
-- **Git**
-- **GitHub**
-- **Visual Studio Code**
-
-### Cloud Tools
-- **AWS**
-
-## 📊 My Stats
-
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalicheDev&show_icons=true&theme=city_lights)](https://github.com/CalicheDev/github-readme-stats)|![Caliche's GitHub stats](https://github-readme-stats.vercel.app/api?username=CalicheDev&show_icons=true&theme=city_lights)|
-|---|---|
 
 
 
